@@ -1,0 +1,9 @@
+E-Mail-Einrichtung: Microsoft Outlook
+1. Systemsteuerung öffnen
+2. Ansicht umstellen auf 'kleine Symbole'
+3. Mail (Microsoft Outlook) öffnen
+4. Mail-Setup > E-Mail-Konten
+5. Konto hinzufügen: 'Neu' > Manuelle Konfiguration > POP oder IMAP
+6. POP3-Einstellungen: pop.vol.email (995/SSL), smtp.vol.email (587/STARTTLS)
+7. Authentifizierung aktivieren und testen
+8. Einrichtung abschließen – Viel Spaß!
