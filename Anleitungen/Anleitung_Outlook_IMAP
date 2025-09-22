@@ -1,0 +1,8 @@
+Anleitung: VOLhighspeed E-Mail mit Outlook (IMAP)
+1. Microsoft Outlook öffnen, E-Mail eingeben, „Weiter“.
+2. „Mehr anzeigen“ wählen, Eingangsserver: pop.vol.email, Port: 993, SSL.
+3. SMTP: smtp.vol.email, Port: 587, StartTLS, Zugangsdaten eingeben.
+4. Synchronisierung bestätigen.
+5. Einrichtung läuft – warten.
+6. Weiter klicken zur Synchronisation mit Microsoft Cloud.
+7. Fertig! Konto ist eingerichtet.
