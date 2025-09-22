@@ -1,0 +1,9 @@
+E-Mail-Einrichtung: Huawei-Gerät mit Android
+1. Einstellungen öffnen: Öffnen Sie in Ihrem Homescreen die Einstellungen.
+2. Nutzer & Konten: Tippen Sie auf den Menüpunkt „Nutzer & Konten“ und danach „Konto hinzufügen“.
+3. Konto hinzufügen: Wählen Sie hier „E-Mail“ aus.
+4. Anmelden: Geben Sie Ihre Zugangsdaten ein und tippen Sie auf „Manuell einrichten“.
+5. zu POP3 wechseln: Wechseln Sie auf „POP3“.
+6. Posteingangsserver: pop.vol.email / Port: 995 / SSL: SSL/TLS
+7. Postausgangsserver: smtp.vol.email / Port: 587 / SSL: STARTTLS
+8. Abschluss: Einrichtung mit 'Weiter' beenden – Viel Spaß beim E-Mailen!
