@@ -1,0 +1,8 @@
+E-Mail-Einrichtung: Gmail auf Android-Gerät
+1. Gmail-App öffnen
+2. Konto hinzufügen > Sonstige > manuelle Einrichtung
+3. POP3 auswählen
+4. Eingehende E-Mails: pop.vol.email
+5. Ausgehende E-Mails: smtp.vol.email
+6. Kontooptionen einstellen > Fertig
+7. Viel Spaß beim E-Mailen!
