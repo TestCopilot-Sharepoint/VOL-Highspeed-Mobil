@@ -1,0 +1,39 @@
+Telefonieren mit VOLhighspeed
+ALLGEMEINE FUNKTIONEN
+Hier finden Sie die gängigsten Funktionen, die Sie mittels den folgenden Tastenkombinationen ganz einfach in oder außer Kraft setzen können.
+Rufnummern-weiterleitung – Für alle Anrufe
+Aktivierung: *21* + Zielnummer
+Deaktivieren: #21
+Aktivierung letzte Zielnummer: *21
+Aktivierung auf Voicebox: *251
+Deaktivieren auf Voicebox: #251
+Rufnummern-Weiterleitung – Bei „Nicht abnehmen“
+Aktivierung: *61* + Zielnummer
+Deaktivieren: #61
+Aktivierung letzte Zielnummer: *61
+Aktivierung auf Voicebox: *253
+Deaktivieren auf Voicebox: #253
+Rufnummern-Weiterleitung – Bei „Besetzt“
+Aktivierung: *67* + Zielnummer
+Deaktivieren: #67
+Aktivierung letzte Zielnummer: *67
+Aktivierung auf Voicebox: *252
+Deaktivieren auf Voicebox: #252
+Voicebox aktivieren
+Aktivierung: *262
+Deaktivieren: #262
+Voicebox – besprechen, abhören und verwalten
+Stellen Sie die Zeit ein, die vergehen soll, bis Ihre Mailbox drangeht. Maximal bis zu 30 Sekunden verfügbar.
+Hauptmenü Voicebox: *250
+Voicebox – zurücksetzen
+Sie können Ihre persönliche Ansage löschen und Ihren PIN auf 0000 zurücksetzen.
+Zurücksetzen: *259
+Unterdrückte Rufnummer – Für ausgehende Anrufe
+Aktivierung: *31
+Deaktivieren: #31
+Anklopfen – Bis die Mailbox rangeht
+Aktivierung: *43
+Deaktivieren: #43
+Makeln und Rückfragen – Während des Telefonates
+Sie können während eines aktiven Telefonates ankommende Anrufe annehmen oder ein zweites Telefongespräch beginnen
+Aktivierung: R2
