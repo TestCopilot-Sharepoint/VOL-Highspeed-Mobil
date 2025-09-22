@@ -1,0 +1,6 @@
+E-Mail-Einrichtung: Thunderbird
+1. Thunderbird öffnen > E-Mail hinzufügen
+2. Benutzerdaten eingeben > manuell bearbeiten
+3. POP3 statt IMAP auswählen
+4. Serverdaten: pop.vol.email (995/SSL), smtp.vol.email (587/STARTTLS)
+5. Mit 'Fertig' speichern – Viel Spaß!
