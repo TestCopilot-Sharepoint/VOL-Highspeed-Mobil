@@ -1,0 +1,8 @@
+E-Mail-Einrichtung: Windows 10 Mail
+1. Mail-Programm öffnen
+2. Konto hinzufügen > Erweitertes Setup > Internet-E-Mail
+3. Zugangsdaten eingeben: POP3, pop.vol.email & smtp.vol.email
+4. Einrichtung mit 'Fertig' abschließen
+5. Einstellungen & Synchronisation prüfen
+6. Ports anpassen: Posteingang 995 / Ausgang 587
+7. Viel Spaß beim E-Mailen!
