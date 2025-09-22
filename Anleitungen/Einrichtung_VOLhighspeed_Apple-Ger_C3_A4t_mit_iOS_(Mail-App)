@@ -1,0 +1,8 @@
+E-Mail-Einrichtung: Apple-Gerät mit iOS (Mail-App)
+1. Einstellungen > Apps > Mail
+2. Mail-Accounts > Account hinzufügen > Andere
+3. Mail-Account hinzufügen
+4. Zugangsdaten eingeben > POP auswählen
+5. Eingehender Server: pop.vol.email
+6. Ausgehender Server: smtp.vol.email
+7. Mit 'Sichern' abschließen – Viel Spaß!
